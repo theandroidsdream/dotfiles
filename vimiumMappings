@@ -1,0 +1,7 @@
+# Excluded urls and keys:
+https?://trello.com/*
+unmap u
+unmap d
+unmap p
+map <c-d> scrollPageDown
+map <c-u> scrollPageUp
